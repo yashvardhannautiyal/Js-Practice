@@ -1,0 +1,159 @@
+--Beginner Level (1-50) : Basic Syntax & Data Types--
+
+1. Write a JavaScript program to print "Hello, World!" to the console.
+2. Declare a variable and assign it a string value.
+3. Write a program to swap two variables without using a third variable.
+4. Convert a string to a number and vice versa.
+5. Check if a given number is even or odd.
+6. Find the largest of three numbers.
+7. Write a function to check if a number is positive, negative, or zero.
+8. Convert Celsius to Fahrenheit.
+9. Convert a number to a string and vice versa.
+10. Check if a year is a leap year.
+
+--Loops & Conditionals--
+11. Print numbers from 1 to 10 using a loop.
+12. Print the multiplication table of a number.
+13. Find the sum of natural numbers up to a given number.
+14. Write a program to reverse a number.
+15. Find the factorial of a number.
+16. Check if a number is prime.
+17. Print Fibonacci series up to n terms.
+18. Count the number of digits in a number.
+19. Find the sum of digits of a number.
+20. Check if a number is an Armstrong number.
+
+---Arrays & Strings---
+Find the length of a string.
+Convert a string to uppercase and lowercase.
+Reverse a string.
+Count the occurrences of a character in a string.
+Remove duplicates from an array.
+Find the largest and smallest elements in an array.
+Sort an array in ascending and descending order.
+Merge two arrays.
+Find the second largest element in an array.
+Find the intersection of two arrays.
+Functions & Scope
+Write a function to return the sum of two numbers.
+Write a function to check if a string is a palindrome.
+Demonstrate function hoisting.
+Write a function with default parameters.
+Create a function that returns the square of a number.
+Implement a recursive function to calculate the factorial.
+Write a function to calculate the power of a number.
+Implement an arrow function to check if a number is even or odd.
+Demonstrate block-level scope using let and const.
+Write a function that returns the maximum of three numbers.
+Objects & JSON
+Create an object representing a person with name, age, and city properties.
+Add and delete properties from an object.
+Write a program to iterate over an object’s properties.
+Convert an object to a JSON string.
+Convert a JSON string back to an object.
+Clone an object without reference.
+Merge two objects.
+Create a function constructor for a Car object.
+Create an object method that returns the full name of a person.
+Write a program to check if an object is empty.
+Intermediate Level (51-150)
+Higher-Order Functions & Callbacks
+Write a function that takes a callback and executes it.
+Implement the map() function manually.
+Implement the filter() function manually.
+Implement the reduce() function manually.
+Create a function that sorts an array of objects by a property.
+Write a function that returns another function.
+Use setTimeout() to print "Hello" after 3 seconds.
+Use setInterval() to print a message every 2 seconds.
+Write a debounce function.
+Write a throttle function.
+ES6 Features
+Demonstrate the use of let and const.
+Use template literals to create a multi-line string.
+Demonstrate destructuring with arrays and objects.
+Use the spread operator to merge two arrays.
+Use the rest operator to collect arguments.
+Write a function that uses default parameters.
+Create a class with a constructor.
+Create a subclass using extends.
+Use static methods in a class.
+Demonstrate the use of promises.
+Asynchronous JavaScript
+Use fetch() to get data from an API.
+Use async/await to fetch data from an API.
+Handle errors in fetch() requests.
+Implement a function that returns a promise.
+Demonstrate the use of Promise.all().
+Demonstrate the use of Promise.race().
+Create a function that retries a failed API call.
+Implement a function that fetches data and caches the result.
+Write a function that handles API response timeouts.
+Demonstrate chaining promises.
+DOM Manipulation
+Select an element by ID and change its text content.
+Select multiple elements by class and change their styles.
+Add a new element to the DOM.
+Remove an element from the DOM.
+Change the background color of an element on button click.
+Toggle a CSS class on an element.
+Handle form submission and prevent default behavior.
+Show a modal when a button is clicked.
+Create a simple image slider using JavaScript.
+Implement infinite scrolling.
+Error Handling & Debugging
+Use try-catch to handle errors.
+Create a custom error class.
+Use console.log(), console.error(), and console.table().
+Demonstrate debugger in JavaScript.
+Catch and handle rejected promises.
+Validate user input in a form.
+Handle errors in an asynchronous function.
+Use finally in a promise chain.
+Debug a function that returns undefined.
+Demonstrate how to catch syntax errors.
+Advanced Level (151-200)
+Advanced Data Structures
+Implement a linked list in JavaScript.
+Implement a stack using arrays.
+Implement a queue using arrays.
+Implement a binary search tree.
+Implement a graph using adjacency list.
+Perform BFS and DFS on a graph.
+Implement a heap data structure.
+Implement a trie data structure.
+Implement a hash map in JavaScript.
+Implement an LRU cache.
+Performance Optimization
+Optimize a function using memoization.
+Optimize a function using tail recursion.
+Implement a function to batch API calls.
+Use requestAnimationFrame() for animations.
+Minimize reflows and repaints in the DOM.
+Optimize a function that processes large arrays.
+Use web workers for multi-threading.
+Implement virtual scrolling.
+Optimize an image loading script.
+Lazy load images in JavaScript.
+Security Best Practices
+Prevent XSS attacks in JavaScript.
+Prevent CSRF attacks.
+Secure local storage data.
+Hash passwords in JavaScript.
+Prevent clickjacking.
+Implement CORS properly.
+Sanitize user input.
+Use Content Security Policy to prevent XSS.
+Secure cookies using HttpOnly and Secure flags.
+Implement JWT authentication.
+Project-Based Challenges
+Build a stopwatch using JavaScript.
+Create a weather app using an API.
+Implement a todo list with local storage.
+Build a URL shortener.
+Create a chatbot using JavaScript.
+Develop a simple browser-based game.
+Implement a note-taking app with Markdown support.
+Build a simple e-commerce cart.
+Create a live stock market tracker.
+Implement a real-time chat app.
